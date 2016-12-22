@@ -6,7 +6,9 @@ Ever had the feeling that you had the interest but never the start. With my new 
 ___
 ### Programs
 
-There are no hello worlds, but if you are interested in some jokes, Sorry for the lame ones, head into the commments within no.4
+There are no hello worlds, but if you are interested in some jokes, Sorry for the lame ones, head into the commments within no.4.
+
 1. find.cpp
-2. tell.cpp
-3. bot.cpp
+2. whathz.cpp
+3. 
+4. bot.cpp
