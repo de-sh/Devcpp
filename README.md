@@ -8,7 +8,6 @@ ___
 
 There are no hello worlds, but if you are interested in some jokes, Sorry for the lame ones, head into the commments within no.4.
 
-1. find.cpp
-2. whathz.cpp
-3. 
-4. bot.cpp
+1. [FindLen.cpp](FindLen.cpp)
+2. [WhatHz.cpp](WhatHz.cpp)
+3. [AIbot.cpp](AIbot.cpp)
